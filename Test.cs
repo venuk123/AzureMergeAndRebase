@@ -25,5 +25,7 @@ public class Class1
         Console.WriteLine("Hello World FeatureBranch Added Rebase commit 22");
 
         Console.WriteLine("Hello World FeatureBranch Added Rebase commit 23");
+
+        Console.WriteLine("Hello World FeatureBranch Added Rebase commit Local Branch 1");
     }
 }
