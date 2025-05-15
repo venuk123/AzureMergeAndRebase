@@ -8,5 +8,6 @@ public class Class1
         Console.WriteLine("Hello World FeatureBranch Added commit 1");
         Console.WriteLine("Hello World FeatureBranch Added commit 2");
         Console.WriteLine("Hello World FeatureBranch Added commit 3");
+        Console.WriteLine("Hello World FeatureBranch Added commit 4");
     }
 }
