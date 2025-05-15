@@ -5,5 +5,6 @@ public class Class1
 	public Class1()
 	{   
         Console.WriteLine("Hello World Main");
+        Console.WriteLine("Hello World Local added");
     }
 }
